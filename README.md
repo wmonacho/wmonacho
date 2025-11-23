@@ -78,12 +78,3 @@ C'est le cœur de mon expertise. Je ne me contente pas d'écrire du code qui fon
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wiwillrocku&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiwillrocku&layout=compact&theme=radical&card_width=320" height="180" alt="languages graph"  />
-</div>
-
